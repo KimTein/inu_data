@@ -1,3 +1,3 @@
 # INU data repo
 
-## physics_programmin
+## physics_programming
