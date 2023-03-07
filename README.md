@@ -1,1 +1,3 @@
-2023-1학기 물리 프로그래밍 레포
+# INU data repo
+
+## physics_programmin
