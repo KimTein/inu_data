@@ -1,0 +1,5 @@
+x: -0.01, max value = -0.0
+x: -0.0, max value = -0.0
+x: 0.01, max value = -0.0
+x: -4.48, min value = -400.0
+x: -4.47, min value = -400.0

@@ -1,0 +1,6 @@
+x: -9.99, max value = 5968.06
+x: 9.99, max value = 5968.06
+x: -4.47, min value = -400.0
+x: -4.46, min value = -399.99
+x: 4.48, min value = -400.0
+x: 4.49, min value = -399.97
